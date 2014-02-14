@@ -7,3 +7,5 @@
 var children = [Anthony, Danielle, Cheyenne, Raven]; //My mother's children listed in age order//
 
 var grand = [Gabriel, Jazmine]; //My mother's grandchildren listen in age order//
+
+console.log (children)
